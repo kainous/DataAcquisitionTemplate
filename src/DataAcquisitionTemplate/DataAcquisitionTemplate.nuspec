@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hyperion.DataAcquisition.Template</id>
+    <version>0.0.0.1</version>
+    <title>DataAcquisition Template</title>
+    <authors>Nicholas Cooper</authors>
+    <owners>Nicholas Cooper</owners>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
+    <projectUrl>http://github.com/kainous/DataAcquisitionTemplate</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core template interfaces for data acquisition</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>template data acquisition</tags>
+  </metadata>
+</package>
