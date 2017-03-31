@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DataAcquisition {
-  interface IDataPoint {
+  public interface IDataPoint<T> {
+    T Value { get; }
+    DateTimeOffset Timestamp { get; }
   }
 }
