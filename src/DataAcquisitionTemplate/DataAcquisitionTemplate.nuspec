@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Hyperion.DataAcquisition.Template</id>
-    <version>0.0.0.1</version>
+    <version>0.0.0.2-pre</version>
     <title>DataAcquisition Template</title>
     <authors>Nicholas Cooper</authors>
     <owners>Nicholas Cooper</owners>
