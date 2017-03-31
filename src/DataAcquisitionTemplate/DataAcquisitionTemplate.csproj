@@ -42,8 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IDataPoint.cs" />
-    <Compile Include="IReading.cs" />
+    <Compile Include="ISignalReader.cs" />
     <Compile Include="ISignalHost.cs" />
+    <Compile Include="ISignal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
